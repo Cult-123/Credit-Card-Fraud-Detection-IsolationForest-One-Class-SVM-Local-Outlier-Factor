@@ -19,7 +19,7 @@ In this challenge, we have to build a predictive model that answers the question
 ## Project Overview
 In this Project I have unleashed the useful Data Science insights using this Bank_Loan dataset and performed the feature selection, feature engineering & missing data handling precisely to build Classification models. In this project I have used 8 types of Classification Algorithms which are Logistic Regression, KNN, KMeans, Support Vector Machine, Decision Tree, Random Forest, Ada-Boost-Classifier, Gradient-Boosting-Classifier. 8 Algorithms along with combining the power of best statistical rules & principles to maximise accuracy at its best followed by all statistical conditions. The best thing is my model is not having any Multicollinearity Problem. All features are fulfilling Statistically Significant concept respect to the target variable.
 
-## This Project is divided into 52 major steps which are as follows:
+## This Project is divided into 54 major steps which are as follows:
 1. [Check out the Data](#data-check)
 2. [Importing Libraries & setting up environment](#imp-lib)
 3. [Loading dataset](#data-load)
