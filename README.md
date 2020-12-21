@@ -4,7 +4,7 @@ Python Data Science Project, Bank Loan Credit Risk Prediction using:
 - LogisticRegression (90.30 % Accuracy)
 - KNN (89.28 % Accuracy)
 - KMeans (58%)
-- Support Vector Machine (88.26%)
+- Support Vector Machine (89.8%)
 - Decision Tree (86.22 % Accuracy)
 - Random Forest (90.81 % Accuracy)
 - AdaBoostClassifier (89.28 % Accuracy)
