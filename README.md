@@ -1,4 +1,4 @@
-# CreditRisk-BankLoan-Prediction-with-LogisticReg-KNN-KMeans-SVM-DTree-RForest-AdaBoost-GradBoost
+# Credit-Card-Fraud-Detection-IsolationForest-One-Class-SVM-Local-Outlier-Factor
 Python Data Science Project, Bank Loan Credit Risk Prediction using:
 
 - LogisticRegression (90.30 % Accuracy)
