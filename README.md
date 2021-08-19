@@ -5,8 +5,8 @@ Python Data Science Project, Bank Loan Credit Risk Prediction using:
 ![](Images/Cr2.JPG)
 ![](Images/Cr3.JPG)
 
-- IsoLationForest (90.30 % Accuracy)
-- Local Outlier Factor (89.28 % Accuracy)
+- IsoLationForest (99.79 % Accuracy)
+- Local Outlier Factor (99.71 % Accuracy)
 - Support Vector Machine (89.8%)
 
 For other Accuracy Details Please Check the Project. Other Accuracy Criterias are AUC & ROC Curve, Confusion Matrix, Classification Report, recall_score, precision_score etc.
