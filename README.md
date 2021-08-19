@@ -1,6 +1,10 @@
 # Credit-Card-Fraud-Detection-IsolationForest-One-Class-SVM-Local-Outlier-Factor
 Python Data Science Project, Bank Loan Credit Risk Prediction using:
 
+![](Images/Cr1.JPG)
+![](Images/Cr2.JPG)
+![](Images/Cr3.JPG)
+
 - LogisticRegression (90.30 % Accuracy)
 - KNN (89.28 % Accuracy)
 - KMeans (58%)
