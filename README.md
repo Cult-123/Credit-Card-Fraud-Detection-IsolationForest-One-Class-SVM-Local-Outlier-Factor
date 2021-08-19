@@ -6,13 +6,8 @@ Python Data Science Project, Bank Loan Credit Risk Prediction using:
 ![](Images/Cr3.JPG)
 
 - IsoLationForest (90.30 % Accuracy)
-- KNN (89.28 % Accuracy)
-- KMeans (58%)
+- Local Outlier Factor (89.28 % Accuracy)
 - Support Vector Machine (89.8%)
-- Decision Tree (86.22 % Accuracy)
-- Random Forest (90.81 % Accuracy)
-- AdaBoostClassifier (89.28 % Accuracy)
-- GradientBoostingClassifier (86.22 % Accuracy)
 
 For other Accuracy Details Please Check the Project. Other Accuracy Criterias are AUC & ROC Curve, Confusion Matrix, Classification Report, recall_score, precision_score etc.
 
